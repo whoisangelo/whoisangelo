@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [whoisangelo.github.io](https://whoisangelo.github.io/)
 
-- 📫 How to reach me **angelo.vitor1998@hotmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/angelo-vitor-maia-dias-65b9b717a/)
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
