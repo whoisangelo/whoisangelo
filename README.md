@@ -18,6 +18,4 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/angelo-vitor-maia-dias-65b9b717a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="whoisangelo" height="20" width="20" /></a>
-<a href="http://fb.com/angelo.vitor.71" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="whoisangelo" height="20" width="20" /></a>
-<a href="https://www.instagram.com/exploit_angelo/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="whoisangelo" height="20" width="20" /></a>
 </p>
